@@ -6,9 +6,7 @@ Componenti: Anna Setzu e Manuel Boi
 Dataset: Student Performance Data Set
 
 Anna Setzu:
-- Lettura, pulizia, encoding dataset
-- Distribuzioni 
+- Lettura, pulizia, encoding, normalizzazione dataset
 
 Manuel Boi:
-- Distribuzioni
-- Correlazioni
+- Distribuzioni, correlazioni
