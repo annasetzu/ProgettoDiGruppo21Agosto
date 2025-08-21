@@ -10,3 +10,4 @@ Anna Setzu:
 
 Manuel Boi:
 - Distribuzioni, correlazioni
+- Modello unsupervised
